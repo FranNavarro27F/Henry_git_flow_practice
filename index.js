@@ -33,7 +33,7 @@ function laCajaDePandora(numero){
              //fasfayh
              ///asgh
              //holis
-        }
+        
 
-    }
+    
     console.log(laCajaDePandora(451))
