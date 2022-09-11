@@ -1,5 +1,6 @@
 function laCajaDePandora(numero){
-    // proximamente escribiremos codigo aqui
+    // proximamente escribiremos codigo aquí
+    
         //si es par,pasar a binario:
         if (numero%2 === 0){
             
