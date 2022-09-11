@@ -28,6 +28,9 @@ function laCajaDePandora(numero){
                 }
             }
              return arrHex
+             //asfasg
+             //fasfayh
+             ///asgh
         }
 
     }
